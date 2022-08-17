@@ -18,7 +18,7 @@
 ### ⭐ Мой сертификат :
 - Python-разработчик [Сертификат](https://github.com/pythonistka/pythonistka/commit/fc077390cec7dffca1e791102fba66f1c1310da9)
 
-### 📩 Напиши мне :
+### ✏ Напиши мне :
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wonder_dara)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-4db6ac?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/89119091575)
 
