@@ -8,14 +8,12 @@
 ![HTML5 - ](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFDAB9)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=E0FFFF)
 ![Django - ](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=8FBC8F)
+<div style="margin: 20px"><img align="right" alt="GIF" src="https://github.com/pythonistka/pythonistka/blob/master/cat.gif" width="300" height="300"  /></div>
 
 ### 📒 Мои разработки
 - Python [Mvideo парсер](https://github.com/pythonistka/parsingMvideo)
 - Python [Marmalado dating bot](https://github.com/pythonistka/VKinder_Marmalado)
 - Python [Health diet парсер с библиотекой Beautiful Soup](https://github.com/pythonistka/VKinder_Marmalado)
-
-<div style="margin: 20px"><img align="right" alt="GIF" src="https://github.com/pythonistka/pythonistka/blob/master/cat.gif" width="300" height="300"  /></div>
-
 
 ### :fire: My GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pythonistka&theme=tokyonight_duo)](https://git.io/streak-stats)
