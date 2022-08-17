@@ -15,12 +15,13 @@
 - Python [Marmalado dating bot](https://github.com/pythonistka/VKinder_Marmalado)
 - Python [Health diet парсер с библиотекой Beautiful Soup](https://github.com/pythonistka/VKinder_Marmalado)
 
-### :fire: My GitHub Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pythonistka&theme=tokyonight_duo)](https://git.io/streak-stats)
-
 ### ⭐ Мой сертификат :
 - Python-разработчик [Сертификат](https://github.com/pythonistka/pythonistka/commit/fc077390cec7dffca1e791102fba66f1c1310da9)
 
 ### 📩 Напиши мне :
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wonder_dara)
+
+### :fire: My GitHub Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pythonistka&theme=tokyonight_duo)](https://git.io/streak-stats)
+
 
