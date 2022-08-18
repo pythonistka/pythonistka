@@ -1,5 +1,5 @@
 ### 🤚 Привет!
-Я - <b>Дарья Лопатина</b> - Python разработчик 👩‍💻
+Я <b>Дарья Лопатина</b> - Python разработчик 👩‍💻
 
 ### 💡 Стек моих знаний :
 ![Python - ](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
