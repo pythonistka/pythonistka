@@ -13,7 +13,7 @@
 ### 📒 Мои разработки :
 - Python [Mvideo парсер](https://github.com/pythonistka/parsingMvideo)
 - Python [Marmalado dating bot](https://github.com/pythonistka/VKinder_Marmalado)
-- Python [Health diet парсер с библиотекой Beautiful Soup](https://github.com/pythonistka/VKinder_Marmalado)
+- Python [Health diet парсер с библиотекой Beautiful Soup](https://github.com/pythonistka/Lesson_of_library_Beautifulsoup/tree/master/lesson_2)
 
 ### ⭐ Мой сертификат :
 - Python-разработчик [Сертификат](https://github.com/pythonistka/pythonistka/commit/fc077390cec7dffca1e791102fba66f1c1310da9)
