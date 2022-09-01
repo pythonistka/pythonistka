@@ -11,6 +11,7 @@
 <div style="margin: 20px"><img align="right" alt="GIF" src="https://github.com/pythonistka/pythonistka/blob/master/cat.gif" width="300" height="300"  /></div>
 
 ### 📒 Мои разработки :
+- Python [Rivegauche парсер](https://github.com/pythonistka/python_Scraping_Rivegauche)
 - Python [Mvideo парсер](https://github.com/pythonistka/parsingMvideo)
 - Python [Marmalado dating bot](https://github.com/pythonistka/VKinder_Marmalado)
 - Python [Health diet парсер с библиотекой Beautiful Soup](https://github.com/pythonistka/Lesson_of_library_Beautifulsoup/tree/master/lesson_2)
