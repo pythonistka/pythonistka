@@ -12,6 +12,7 @@
 
 ### 📒 Мои разработки :
 - Python [Rivegauche парсер](https://github.com/pythonistka/python_Scraping_Rivegauche)
+- Python [Telegram bot с прогнозом погоды](https://github.com/pythonistka/Python_Weather_Telegram_bot)
 - Python [Mvideo парсер](https://github.com/pythonistka/parsingMvideo)
 - Python [Marmalado dating bot](https://github.com/pythonistka/VKinder_Marmalado)
 - Python [Health diet парсер с библиотекой Beautiful Soup](https://github.com/pythonistka/Lesson_of_library_Beautifulsoup/tree/master/lesson_2)
